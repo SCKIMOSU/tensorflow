@@ -11,7 +11,7 @@ import tensorflow as tf
 
 import numpy as np
 
-np.arange(1, 2, 0.1)
+
 
 X=tf.placeholder(tf.float32)
 
