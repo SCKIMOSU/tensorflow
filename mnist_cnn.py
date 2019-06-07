@@ -1,6 +1,6 @@
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
-
+# https://pinkwink.kr/1121?category=580892
 import sys
 import tensorflow as tf
 import keras
